@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e6f32f517a607442b8d78104838ab29, type: 3}
+  m_Name: ColorOrbSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Freehand.Tools.ColorOrbSettings
+  hoverDistance: 0.14
+  upwardBias: 0.45
+  followSmoothTime: 0.07
+  turnSpeed: 10
+  coreRadius: 0.036
+  haloScale: 1.25
+  valueArcRadius: 0.052
+  valueArcHalfAngle: 70
+  beadOrbitRadius: 0.066
+  beadRadius: 0.0075
+  beadOrbitTilt: 24
+  aimAssist: 0.012
+  maxPointerDistance: 1.6
+  summonSeconds: 0.42
+  dismissSeconds: 0.3
+  confirmSeconds: 0.38
+  breatheAmplitude: 0.025
+  breatheHz: 0.7
+  beadOrbitDegreesPerSecond: 16
+  minDisplayValue: 0.35

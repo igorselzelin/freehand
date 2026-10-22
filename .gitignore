@@ -1,0 +1,37 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.utmp/
+*.log
+
+# IDE
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+
+# Builds / packages
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.pdb
+*.mdb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tooling
+/graphify-out/
